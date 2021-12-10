@@ -1,0 +1,22 @@
+"","White","Asian or Asian British"
+"accuracy",0.96165844822381,0.948402948402948
+"TPR",0,0
+"TNR",1,1
+"auc",0.769549630908945,0.634098198865038
+"accuracy.majority",0.96165844822381,0.948402948402948
+"TPR.majority",0,0
+"TNR.majority",1,1
+"auc.majority",0.769549630908945,0.708981001727116
+"accuracy.offset",NA,0.948402948402948
+"TPR.offset",NA,0
+"TNR.offset",NA,1
+"auc.offset",NA,0.707377251418702
+"accuracy.minority.main",NA,0.948402948402948
+"TPR.minority.main",NA,0
+"TNR.minority.main",NA,1
+"auc.minority.main",NA,0.669133974833457
+"accuracy.majority.main",0.96165844822381,0.948402948402948
+"TPR.majority.main",0,0
+"TNR.majority.main",1,1
+"auc.majority.main",0.771568947351652,0.709104367135455
+"p",0.03834155177619,0.0515970515970516
